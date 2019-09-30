@@ -1,0 +1,96 @@
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.exe
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.pdb
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.xml
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.AboutBox1.resources
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Dialog1.resources
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Resources.resources
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.SplashScreen1.resources
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.vbproj.GenerateResource.Cache
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.exe
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.xml
+c:\users\oladiti tajudeen a\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.pdb
+C:\Users\Oladiti Tajudeen A\documents\visual studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.subjectss1.resources
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Score.resources
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Form2.resources
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.exe.config
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.LOAD.resources
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.vbproj.ResolveComReference.cache
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.rsult.resources
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Home.resources
+C:\Users\Oladiti Tajudeen A\Documents\Visual Studio 2010\Projects\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.LoginResult.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.exe.config
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.pdb
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.vbproj.ResolveComReference.cache
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.AboutBox1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Dialog1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Home.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.LOAD.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.LoginResult.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.rsult.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Score.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.subjectss1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Resources.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.SplashScreen1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Form2.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.vbproj.GenerateResource.Cache
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.pdb
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.exe.config
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.pdb
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.vbproj.ResolveComReference.cache
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.AboutBox1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Dialog1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Home.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.LOAD.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.LoginResult.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.rsult.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Score.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.subjectss1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Resources.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.SplashScreen1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Form2.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.vbproj.GenerateResource.Cache
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.pdb
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.exe.config
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.pdb
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\bin\Debug\Computer Based Test.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.vbproj.ResolveComReference.cache
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.AboutBox1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Dialog1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Home.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.LOAD.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.LoginResult.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.rsult.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Score.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.subjectss1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Resources.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.SplashScreen1.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer_Based_Test.Form2.resources
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.vbproj.GenerateResource.Cache
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Recoverd File\Application\Visual Basic.Net\Computer Based Test\Computer Based Test\obj\x86\Debug\Computer Based Test.pdb
